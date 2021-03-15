@@ -10,4 +10,5 @@ if __name__ == '__main__':
         sys.stdout.write('#'*i+'\r')
         sys.stdout.flush()
         time.sleep(1)
+    print("that's all folks")
     print()
